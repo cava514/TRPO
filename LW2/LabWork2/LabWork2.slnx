@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LabWork2.3/LabWork2.3.csproj" />
+  <Project Path="LabWork2.5/LabWork2.5.csproj" />
+  <Project Path="LabWork2Tests/LabWork2Tests.csproj" />
+</Solution>
